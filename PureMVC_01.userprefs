@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Model/TestProxy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Manager/TestFacade.cs" Line="10" Column="3" />
+      <File FileName="Assets/Scripts/Manager/GameManager.cs" Line="9" Column="30" />
+      <File FileName="Assets/Scripts/Model/TestProxy.cs" Line="13" Column="28" />
+      <File FileName="Assets/Scripts/View/TestMediator.cs" Line="33" Column="46" />
+      <File FileName="Assets/Scripts/Controller/TestCommand.cs" Line="21" Column="21" />
+      <File FileName="Assets/Scripts/Model/CharaterInfo.cs" Line="7" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
